@@ -1,0 +1,62 @@
+Vs- File- Preferences - Settings
+Extensions: 
+1. Live Server
+2. Bracket Pair Colorizer
+3. ES7 React/Redux/GraphQL
+4. ES Lint
+5. HTML Boilerplate
+6. Live Sass compiler
+7. React js code snippets
+8. Javascript ES6 code snippets
+
+CONSOLE
+1. log
+2. error
+3. warn
+4. table
+5. time
+6. timeEnd
+
+Math.floor(Math.random() * 20 + 1);
+
+Let and const have block level scopes
+var have function level scopes
+
+window.location, window.navigator
+document.all.length - length of the elements in a document
+document.domain, document.URL
+
+Array.from()
+The Array.from() static method creates a new, shallow-copied Array instance from an array-like or iterable object.
+
+document.getElementById().innerHTML, .innerText, .textContent
+MULTIPLE ELEMENTS DOM SELECTORS
+getElementsByClassName('');
+.querySelector('ul').getElementsByClassName();
+.querySelectorAll();
+getElementByTagName();
+
+TRAVERSING DOM
+.childNode, .children, .parentNode etc..
+
+CREATING ELEMENTS
+    document.createElement('li');
+setAttribute('title','new Item');
+createTextNode('Hello');
+li.appendChild()
+document.querySelector('').appendChild(li)
+createTextNode
+REMOVE/REPLACE
+removeChild()/remove/replaceChild()/replace
+
+DIFFERENCE B/W QUERYSELECTORALL AND GETELELEMENTBYCLASSLISTS
+QUERYSELECTORALL -> return nodeList
+GETELELEMENTBYCLASSLISTS -> return html collections 
+
+css Boilerplate -> bootstrap, skeleton
+Bootstrap template -> bootswatch
+materialize css
+
+Promises .then
+Promises -> async
+.then -> await
